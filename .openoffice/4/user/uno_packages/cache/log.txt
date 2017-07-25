@@ -1,0 +1,4 @@
+###### Progress log entry 2015-01-12 20:30:21 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @7fe2cdd517e8 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @7fe2cdd517e8 }, ArgumentPosition = (short) -1 }
+Copying: dict-en.oxt
